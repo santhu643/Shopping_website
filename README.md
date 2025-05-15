@@ -29,10 +29,15 @@
 
 berger-hut/
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # External CSS file
+
 ├── /images # Folder containing burger images
+
 ├── /screenshots # Folder with screenshots (optional)
+
 └── README.md # Project documentation
 
 ---
@@ -73,13 +78,12 @@ Add animation or carousel for featured burgers
 ## 🙋‍♀️ About Me
 Hi! I’m Santhiya Prakash, a passionate front-end developer currently learning the MERN stack. This is my first mini project!
 
-🔗 LinkedIn: https://www.linkedin.com/in/santhiya-prakash-87449425a/
+## 📬 Connect with Me
+🔗 LinkedIn - https://www.linkedin.com/in/santhiya-prakash-87449425a/
 
-💻 GitHub: https://github.com/Santhiyaprakash
+💻 GitHub - https://github.com/santhu643
 
-🧠 LeetCode: https://leetcode.com/u/santhiya04/
-
-📸 Instagram: https://www.instagram.com/santhu04/
+🧠 LeetCode - https://leetcode.com/u/santhiyaprakash/
 
 ## 📃 License
 This project is created for educational and demonstration purposes.
