@@ -15,14 +15,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *(Upload your screenshots to the `/screenshots` folder and replace the path below)*
-
-![Homepage Screenshot](screenshots/homepage.png)  
-*Responsive homepage view of Berger Hut.*
-
----
 
 ## 🛠️ Technologies Used
 
